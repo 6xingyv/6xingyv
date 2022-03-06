@@ -8,5 +8,5 @@
 ### 🧪 本人特点  
 又慢又懒，不爱动弹  
 ### 📬 如何联系  
-邮箱：sixingyv@qq.com 或者 6xingyv@gmail.com  
+邮箱：6xingyv@gmail.com  
 QQ：3487004263
