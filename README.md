@@ -2,8 +2,8 @@
 
 
 ### 🎭 正在制作丨Working on  
-火星计划 - 连接世界  
->Project Mars - Connect the world.  
+奇妙应用箱 - 生活规划，一应俱全  
+> Wonder Project - Schedule your life.  
 ---
 ### 🚀 已完成的丨Almost done  
 泡面盖板 - 让 Kindle 有用那么一点点  
