@@ -12,6 +12,7 @@ Accompanist - [Lyrics Process Library](https://github.com/6xingyv/Accompanist-Ly
 ### 🚀 Almost done  
 
 Kindesk - A web-based desktop clock for kindle. 
+Via Simple Home - An clean, minimized homepage for Via.
 
 ---
 ### 📬 Contact
