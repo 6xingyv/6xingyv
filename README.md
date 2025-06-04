@@ -7,12 +7,15 @@ A Lazy Cat
 
 Jellyflix - A desktop client for Jellyfin
 
-Accompanist - [Lyrics Process Library](https://github.com/6xingyv/Accompanist-Lyrics), and of course [Lyrics Display Demo](https://github.com/6xingyv/Accompanist)
+Accompanist - [Lyrics Processing Library](https://github.com/6xingyv/Accompanist-Lyrics), and [Lyrics Display Demo](https://github.com/6xingyv/Accompanist)
 
-### 🚀 Almost done  
+### 🚀 Done & Almost done  
 
 Kindesk - A web-based desktop clock for kindle. 
-Via Simple Home - An clean, minimized homepage for Via.
+
+Via Simple Home - A clean, minimized homepage for Via.
+
+Call of Duty - An auto duty assigner for cycled tasks, with some sparkle features.
 
 ---
 ### 📬 Contact
